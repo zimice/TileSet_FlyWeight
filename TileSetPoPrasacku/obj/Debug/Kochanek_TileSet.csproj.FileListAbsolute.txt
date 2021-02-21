@@ -1,0 +1,14 @@
+C:\Users\Simon\Downloads\Csharp\TileSetPoPrasacku\TileSetPoPrasacku\obj\Debug\Kochanek_TileSet.csprojAssemblyReference.cache
+C:\Users\Simon\Downloads\Csharp\TileSetPoPrasacku\TileSetPoPrasacku\obj\Debug\TileSetPoPrasacku.Form1.resources
+C:\Users\Simon\Downloads\Csharp\TileSetPoPrasacku\TileSetPoPrasacku\obj\Debug\Kochanek_TileSet.Properties.Resources.resources
+C:\Users\Simon\Downloads\Csharp\TileSetPoPrasacku\TileSetPoPrasacku\obj\Debug\Kochanek_TileSet.csproj.GenerateResource.cache
+C:\Users\Simon\Downloads\Csharp\TileSetPoPrasacku\TileSetPoPrasacku\obj\Debug\Kochanek_TileSet.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Downloads\Csharp\TileSetPoPrasacku\TileSetPoPrasacku\bin\Debug\Tiles\grass.png
+C:\Users\Simon\Downloads\Csharp\TileSetPoPrasacku\TileSetPoPrasacku\bin\Debug\Tiles\rock.png
+C:\Users\Simon\Downloads\Csharp\TileSetPoPrasacku\TileSetPoPrasacku\bin\Debug\Tiles\sand.png
+C:\Users\Simon\Downloads\Csharp\TileSetPoPrasacku\TileSetPoPrasacku\bin\Debug\Tiles\water.png
+C:\Users\Simon\Downloads\Csharp\TileSetPoPrasacku\TileSetPoPrasacku\bin\Debug\Kochanek_TileSet.exe.config
+C:\Users\Simon\Downloads\Csharp\TileSetPoPrasacku\TileSetPoPrasacku\bin\Debug\Kochanek_TileSet.exe
+C:\Users\Simon\Downloads\Csharp\TileSetPoPrasacku\TileSetPoPrasacku\bin\Debug\Kochanek_TileSet.pdb
+C:\Users\Simon\Downloads\Csharp\TileSetPoPrasacku\TileSetPoPrasacku\obj\Debug\Kochanek_TileSet.exe
+C:\Users\Simon\Downloads\Csharp\TileSetPoPrasacku\TileSetPoPrasacku\obj\Debug\Kochanek_TileSet.pdb
