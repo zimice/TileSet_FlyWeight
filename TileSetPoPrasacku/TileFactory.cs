@@ -42,7 +42,6 @@ namespace Kochanek_TileSet
                     }
             }
             tiles.Add(key, tile);
-            Console.WriteLine("BRUH");
             return tile;
         }
 
